@@ -1,0 +1,54 @@
+body{
+    background-color: #c126e4; /* Warna background body*/
+    background-image: url(assests/walpeper.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif; /*ganti font paragraf disini*/
+    text-align: center;
+}
+.top-container{
+    width: 960px;
+    margin: auto;
+    background-color: #E6D5B8; /* Warna background Container*/
+    color:#1B1A17 ; /*warna text top container*/
+    padding: 20px;
+    border-radius: 20px;
+}
+td{
+    padding: 10px;
+}
+td.text{
+    width: 400px;
+}
+p{
+    text-align: justify;
+}
+h1, h2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1, h2, h3{
+    color:#0034f0c3 ;
+}
+td h1{
+    text-align: left;
+}
+.middle-container{
+    width: 800px;
+    margin: auto;
+}
+.middle-container p{
+    width: 500px;
+    margin: auto;
+}
+.middle-container h3{
+    text-align: left;
+}
+/* hobi img */
+hr{
+    margin-top: 20px;
+}
+p.kontak{
+    text-align: center;
+}
+footer{
+    margin: auto;
+}
